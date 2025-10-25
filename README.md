@@ -154,7 +154,3 @@ EACCES permission denied en Mac	Permisos insuficientes	Usa sudo o instala Node c
 Puerto 1337 ocupado	Otro proceso usa ese puerto	Cambia el puerto en .env: HOST=0.0.0.0, PORT=1338
 
 
-⸻
-
-¿Quieres que te incluya una guía visual paso a paso con capturas y comandos listos para copiar (como un mini-manual en PDF)?
-Puedo generarlo para Windows y Mac por separado.
